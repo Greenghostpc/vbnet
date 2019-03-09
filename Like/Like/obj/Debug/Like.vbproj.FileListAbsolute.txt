@@ -1,0 +1,12 @@
+C:\Users\jdrob525\source\repos\Like\Like\bin\Debug\Like.exe.config
+C:\Users\jdrob525\source\repos\Like\Like\bin\Debug\Like.exe
+C:\Users\jdrob525\source\repos\Like\Like\bin\Debug\Like.pdb
+C:\Users\jdrob525\source\repos\Like\Like\bin\Debug\Like.xml
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.Form1.resources
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.Resources.resources
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.exe
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.xml
+C:\Users\jdrob525\source\repos\Like\Like\obj\Debug\Like.pdb

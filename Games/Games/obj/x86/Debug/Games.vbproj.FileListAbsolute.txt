@@ -1,0 +1,22 @@
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\bin\Debug\Games.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\bin\Debug\Games.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\bin\Debug\Games.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\Games.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\Games.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\GenerateResource.write.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\Games.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\Games.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Games\Games\obj\x86\Debug\Games.pdb
+U:\VisualStudio\VB.NET-programming\Games\Games\bin\Debug\Games.exe
+U:\VisualStudio\VB.NET-programming\Games\Games\bin\Debug\Games.pdb
+U:\VisualStudio\VB.NET-programming\Games\Games\bin\Debug\Games.xml
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.vbprojAssemblyReference.cache
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.Form1.resources
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.Resources.resources
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.vbproj.GenerateResource.cache
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.exe
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.xml
+U:\VisualStudio\VB.NET-programming\Games\Games\obj\x86\Debug\Games.pdb

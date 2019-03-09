@@ -1,0 +1,17 @@
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\bin\Debug\CodeSuite.exe.config
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\bin\Debug\CodeSuite.exe
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\bin\Debug\CodeSuite.pdb
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\bin\Debug\CodeSuite.xml
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.AboutBox1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.Dialog1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.Explorer1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.Form1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.LoginForm1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.Resources.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.SplashScreen1.resources
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.exe
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.xml
+C:\Users\jdrob525\source\repos\CodeSuite\CodeSuite\obj\Debug\CodeSuite.pdb

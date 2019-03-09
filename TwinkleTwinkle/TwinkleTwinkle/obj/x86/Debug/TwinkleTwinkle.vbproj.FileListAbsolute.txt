@@ -1,0 +1,11 @@
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\bin\Debug\TwinkleTwinkle.exe
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\bin\Debug\TwinkleTwinkle.pdb
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\bin\Debug\TwinkleTwinkle.xml
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.vbprojAssemblyReference.cache
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.Form1.resources
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.Resources.resources
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.vbproj.GenerateResource.cache
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.exe
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.xml
+U:\VisualStudio\VB.NET-programming\TwinkleTwinkle\TwinkleTwinkle\obj\x86\Debug\TwinkleTwinkle.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UserDB2", "UserDB2\UserDB2.vbproj", "{2607E29F-219A-4A79-97EF-19BAD092CD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2607E29F-219A-4A79-97EF-19BAD092CD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2607E29F-219A-4A79-97EF-19BAD092CD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2607E29F-219A-4A79-97EF-19BAD092CD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2607E29F-219A-4A79-97EF-19BAD092CD86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0B34BB-6DAE-48EB-80FA-746BC41AB740}
+	EndGlobalSection
+EndGlobal

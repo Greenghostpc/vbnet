@@ -1,0 +1,22 @@
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\bin\Debug\MyName.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\bin\Debug\MyName.pdb
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\bin\Debug\MyName.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\MyName.Form1.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\MyName.Resources.resources
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\GenerateResource.write.1.tlog
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\MyName.exe
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\MyName.xml
+\\itsvs3\lcsstudents\gakeener\my documents\visual studio 2010\Projects\MyName\MyName\obj\x86\Debug\MyName.pdb
+U:\VisualStudio\VB.NET-programming\MyName\MyName\bin\Debug\MyName.exe
+U:\VisualStudio\VB.NET-programming\MyName\MyName\bin\Debug\MyName.pdb
+U:\VisualStudio\VB.NET-programming\MyName\MyName\bin\Debug\MyName.xml
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.vbprojAssemblyReference.cache
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.Form1.resources
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.Resources.resources
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.vbproj.GenerateResource.cache
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.exe
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.xml
+U:\VisualStudio\VB.NET-programming\MyName\MyName\obj\x86\Debug\MyName.pdb

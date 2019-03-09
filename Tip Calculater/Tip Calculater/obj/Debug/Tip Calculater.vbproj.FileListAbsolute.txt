@@ -1,0 +1,13 @@
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\bin\Debug\Tip Calculater.exe.config
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\bin\Debug\Tip Calculater.exe
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\bin\Debug\Tip Calculater.pdb
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\bin\Debug\Tip Calculater.xml
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.vbprojAssemblyReference.cache
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip_Calculater.Form1.resources
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip_Calculater.Resources.resources
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.vbproj.GenerateResource.cache
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.vbproj.CoreCompileInputs.cache
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.exe
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.xml
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip Calculater.pdb
+C:\Users\krshe390\source\repos\Tip Calculater\Tip Calculater\obj\Debug\Tip_Calculater.SplashScreen1.resources

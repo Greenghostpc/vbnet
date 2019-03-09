@@ -1,0 +1,12 @@
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\bin\Debug\RegistrationDataForm.exe.config
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\bin\Debug\RegistrationDataForm.exe
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\bin\Debug\RegistrationDataForm.pdb
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\bin\Debug\RegistrationDataForm.xml
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.vbprojAssemblyReference.cache
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.Form1.resources
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.Resources.resources
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.vbproj.GenerateResource.cache
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.exe
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.xml
+U:\VisualStudio\Projects\RegistrationDataForm\RegistrationDataForm\obj\Debug\RegistrationDataForm.pdb

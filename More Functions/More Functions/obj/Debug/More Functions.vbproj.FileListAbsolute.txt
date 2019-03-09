@@ -1,0 +1,12 @@
+C:\Users\jdrob525\source\repos\More Functions\More Functions\bin\Debug\More Functions.exe.config
+C:\Users\jdrob525\source\repos\More Functions\More Functions\bin\Debug\More Functions.exe
+C:\Users\jdrob525\source\repos\More Functions\More Functions\bin\Debug\More Functions.pdb
+C:\Users\jdrob525\source\repos\More Functions\More Functions\bin\Debug\More Functions.xml
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More_Functions.Form1.resources
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More_Functions.Resources.resources
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.exe
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.xml
+C:\Users\jdrob525\source\repos\More Functions\More Functions\obj\Debug\More Functions.pdb

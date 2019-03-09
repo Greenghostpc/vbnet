@@ -1,0 +1,33 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\bin\Debug\Scope.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Scope\obj\x86\Debug\Scope.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\Scope.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\Scope.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\Scope.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\bin\Debug\Scope.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\bin\Debug\Scope.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\bin\Debug\Scope.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\Scope.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\Scope.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Scope\Scope\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\VisualStudio\VB.NET-programming\Scope\Scope\bin\Debug\Scope.exe
+U:\VisualStudio\VB.NET-programming\Scope\Scope\bin\Debug\Scope.pdb
+U:\VisualStudio\VB.NET-programming\Scope\Scope\bin\Debug\Scope.xml
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.vbprojAssemblyReference.cache
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.Form1.resources
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.Resources.resources
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.vbproj.GenerateResource.cache
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.exe
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.xml
+U:\VisualStudio\VB.NET-programming\Scope\Scope\obj\x86\Debug\Scope.pdb

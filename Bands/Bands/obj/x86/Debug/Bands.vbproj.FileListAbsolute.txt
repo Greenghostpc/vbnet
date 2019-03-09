@@ -1,0 +1,35 @@
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.pdb
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\bin\Debug\Bands.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.Form1.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.Resources.resources
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.exe
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.xml
+C:\Users\GAKeener\AppData\Local\Temporary Projects\Bands\obj\x86\Debug\Bands.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\bin\Debug\Bands.exe
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\bin\Debug\Bands.pdb
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\bin\Debug\Bands.xml
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\ResolveAssemblyReference.cache
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.Form1.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.Resources.resources
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\GenerateResource.read.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\GenerateResource.write.1.tlog
+\\itsvs3\lcsstudents\GAKeener\My Documents\Visual Studio 2010\Projects\Bands\Bands\obj\x86\Debug\Bands.AboutForm.resources
+U:\VisualStudio\VB.NET-programming\Bands\Bands\bin\Debug\Bands.exe
+U:\VisualStudio\VB.NET-programming\Bands\Bands\bin\Debug\Bands.pdb
+U:\VisualStudio\VB.NET-programming\Bands\Bands\bin\Debug\Bands.xml
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.vbprojAssemblyReference.cache
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.AboutForm.resources
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.Form1.resources
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.Resources.resources
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.vbproj.GenerateResource.cache
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.vbproj.CoreCompileInputs.cache
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.exe
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.xml
+U:\VisualStudio\VB.NET-programming\Bands\Bands\obj\x86\Debug\Bands.pdb

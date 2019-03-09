@@ -1,0 +1,12 @@
+C:\Users\jdrob525\source\repos\reference\reference\bin\Debug\reference.exe.config
+C:\Users\jdrob525\source\repos\reference\reference\bin\Debug\reference.exe
+C:\Users\jdrob525\source\repos\reference\reference\bin\Debug\reference.pdb
+C:\Users\jdrob525\source\repos\reference\reference\bin\Debug\reference.xml
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.Form1.resources
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.Resources.resources
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.exe
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.xml
+C:\Users\jdrob525\source\repos\reference\reference\obj\Debug\reference.pdb

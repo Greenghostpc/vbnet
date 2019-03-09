@@ -1,0 +1,3 @@
+﻿  Flicker.cpp
+Flicker.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Flicker.vcxproj -> U:\VisualStudio\Projects\Flicker-master\Debug\Flicker.exe

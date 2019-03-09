@@ -1,0 +1,12 @@
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\bin\Debug\DataTypes.xml
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.Form1.resources
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.Resources.resources
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.xml
+C:\Users\jdrob525\source\repos\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

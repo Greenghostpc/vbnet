@@ -1,0 +1,12 @@
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.vbprojAssemblyReference.cache
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.Form1.resources
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.Resources.resources
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.vbproj.GenerateResource.cache
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.vbproj.CoreCompileInputs.cache
+c:\users\jdrob525\source\repos\EmpView\EmpView\bin\Debug\EmpView.exe.config
+c:\users\jdrob525\source\repos\EmpView\EmpView\bin\Debug\EmpView.exe
+c:\users\jdrob525\source\repos\EmpView\EmpView\bin\Debug\EmpView.pdb
+c:\users\jdrob525\source\repos\EmpView\EmpView\bin\Debug\EmpView.xml
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.exe
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.xml
+c:\users\jdrob525\source\repos\EmpView\EmpView\obj\Debug\EmpView.pdb

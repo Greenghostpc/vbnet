@@ -1,0 +1,24 @@
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\bin\Debug\Referance Project.exe.config
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\bin\Debug\Referance Project.exe
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\bin\Debug\Referance Project.pdb
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\bin\Debug\Referance Project.xml
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.vbprojAssemblyReference.cache
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance_Project.Form1.resources
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance_Project.Resources.resources
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.vbproj.GenerateResource.cache
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.vbproj.CoreCompileInputs.cache
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.exe
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.xml
+C:\Users\krshe390\AppData\Local\Temporary Projects\Referance Project\obj\Debug\Referance Project.pdb
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\bin\Debug\Referance Project.exe.config
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\bin\Debug\Referance Project.exe
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\bin\Debug\Referance Project.pdb
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\bin\Debug\Referance Project.xml
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.vbprojAssemblyReference.cache
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance_Project.Form1.resources
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance_Project.Resources.resources
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.vbproj.GenerateResource.cache
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.vbproj.CoreCompileInputs.cache
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.exe
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.xml
+C:\Users\krshe390\source\repos\Referance Project\Referance Project\obj\Debug\Referance Project.pdb

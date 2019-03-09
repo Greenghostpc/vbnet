@@ -1,0 +1,12 @@
+c:\users\jdrob525\source\repos\IOExample\IOExample\bin\Debug\IOExample.exe.config
+c:\users\jdrob525\source\repos\IOExample\IOExample\bin\Debug\IOExample.exe
+c:\users\jdrob525\source\repos\IOExample\IOExample\bin\Debug\IOExample.pdb
+c:\users\jdrob525\source\repos\IOExample\IOExample\bin\Debug\IOExample.xml
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.vbprojAssemblyReference.cache
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.Form1.resources
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.Resources.resources
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.vbproj.GenerateResource.cache
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.vbproj.CoreCompileInputs.cache
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.exe
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.xml
+c:\users\jdrob525\source\repos\IOExample\IOExample\obj\Debug\IOExample.pdb

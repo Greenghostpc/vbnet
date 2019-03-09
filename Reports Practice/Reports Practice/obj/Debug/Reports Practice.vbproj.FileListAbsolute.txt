@@ -1,0 +1,13 @@
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\bin\Debug\CD.mdb
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\bin\Debug\Reports Practice.exe.config
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\bin\Debug\Reports Practice.exe
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\bin\Debug\Reports Practice.pdb
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\bin\Debug\Reports Practice.xml
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.vbprojAssemblyReference.cache
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports_Practice.Form1.resources
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports_Practice.Resources.resources
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.vbproj.GenerateResource.cache
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.vbproj.CoreCompileInputs.cache
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.exe
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.xml
+C:\Users\jdrob525\source\repos\Reports Practice\Reports Practice\obj\Debug\Reports Practice.pdb

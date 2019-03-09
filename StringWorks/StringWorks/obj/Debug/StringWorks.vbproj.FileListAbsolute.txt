@@ -1,0 +1,12 @@
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\bin\Debug\StringWorks.exe.config
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\bin\Debug\StringWorks.exe
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\bin\Debug\StringWorks.pdb
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\bin\Debug\StringWorks.xml
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.vbprojAssemblyReference.cache
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.Form1.resources
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.Resources.resources
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.vbproj.GenerateResource.cache
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.vbproj.CoreCompileInputs.cache
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.exe
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.xml
+c:\users\jdrob525\source\repos\StringWorks\StringWorks\obj\Debug\StringWorks.pdb

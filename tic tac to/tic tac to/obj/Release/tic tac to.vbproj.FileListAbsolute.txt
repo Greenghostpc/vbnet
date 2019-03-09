@@ -1,0 +1,4 @@
+C:\Users\envig172\source\repos\tic tac to\tic tac to\obj\Release\tic_tac_to.Form1.resources
+C:\Users\envig172\source\repos\tic tac to\tic tac to\obj\Release\tic_tac_to.Resources.resources
+C:\Users\envig172\source\repos\tic tac to\tic tac to\obj\Release\tic tac to.vbproj.GenerateResource.cache
+C:\Users\envig172\source\repos\tic tac to\tic tac to\obj\Release\tic tac to.vbproj.CoreCompileInputs.cache
