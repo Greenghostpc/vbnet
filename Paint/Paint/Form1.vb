@@ -83,4 +83,12 @@
     Private Sub gravityCheckBox_CheckedChanged(sender As Object, e As EventArgs) Handles gravityCheckBox.CheckedChanged
 
     End Sub
+
+    Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
+        Application.Exit()
+    End Sub
+
+    Private Sub SaveToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles SaveToolStripMenuItem.Click
+        SaveFileDialog1.ShowDialog()
+    End Sub
 End Class
