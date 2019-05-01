@@ -53,12 +53,17 @@ Partial Class Form1
         Me.SaveToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.EditToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.UndoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.Button17 = New System.Windows.Forms.Button()
         CType(Me.TrackBar2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar3, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar4, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.MenuStrip1.SuspendLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
@@ -242,7 +247,7 @@ Partial Class Form1
         'ComboBox1
         '
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Items.AddRange(New Object() {"Rectangle", "Ellipse"})
+        Me.ComboBox1.Items.AddRange(New Object() {"Rectangle", "Ellipse", "Picture", "Gradient", "Shape"})
         Me.ComboBox1.Location = New System.Drawing.Point(819, 485)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(89, 29)
@@ -281,7 +286,7 @@ Partial Class Form1
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FileToolStripMenuItem, Me.EditToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(920, 24)
@@ -312,12 +317,46 @@ Partial Class Form1
         Me.ExitToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ExitToolStripMenuItem.Text = "Exit"
         '
+        'EditToolStripMenuItem
+        '
+        Me.EditToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.UndoToolStripMenuItem})
+        Me.EditToolStripMenuItem.Name = "EditToolStripMenuItem"
+        Me.EditToolStripMenuItem.Size = New System.Drawing.Size(39, 20)
+        Me.EditToolStripMenuItem.Text = "Edit"
+        '
+        'UndoToolStripMenuItem
+        '
+        Me.UndoToolStripMenuItem.Name = "UndoToolStripMenuItem"
+        Me.UndoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.UndoToolStripMenuItem.Text = "Undo"
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.PictureBox1.Location = New System.Drawing.Point(733, 331)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(187, 110)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 25
+        Me.PictureBox1.TabStop = False
+        '
+        'Button17
+        '
+        Me.Button17.Location = New System.Drawing.Point(819, 447)
+        Me.Button17.Name = "Button17"
+        Me.Button17.Size = New System.Drawing.Size(89, 32)
+        Me.Button17.TabIndex = 26
+        Me.Button17.Text = "Gradient"
+        Me.Button17.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 21.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(920, 519)
+        Me.Controls.Add(Me.Button17)
+        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.TrackBar4)
         Me.Controls.Add(Me.TrackBar3)
         Me.Controls.Add(Me.gravityCheckBox)
@@ -354,6 +393,7 @@ Partial Class Form1
         CType(Me.TrackBar4, System.ComponentModel.ISupportInitialize).EndInit()
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
+        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -389,4 +429,8 @@ Partial Class Form1
     Friend WithEvents ToolStripSeparator1 As ToolStripSeparator
     Friend WithEvents ExitToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SaveFileDialog1 As SaveFileDialog
+    Friend WithEvents PictureBox1 As PictureBox
+    Friend WithEvents Button17 As Button
+    Friend WithEvents EditToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents UndoToolStripMenuItem As ToolStripMenuItem
 End Class

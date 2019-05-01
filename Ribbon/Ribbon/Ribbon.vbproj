@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A02F280E-9783-4AF2-8B1C-07AD39A15F52}</ProjectGuid>
+    <ProjectGuid>{51A1F3BD-C3AE-43A4-BE5B-5C284E0CC452}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Paint.My.MyApplication</StartupObject>
-    <RootNamespace>Paint</RootNamespace>
-    <AssemblyName>Paint</AssemblyName>
+    <StartupObject>Ribbon.My.MyApplication</StartupObject>
+    <RootNamespace>Ribbon</RootNamespace>
+    <AssemblyName>Ribbon</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Paint.xml</DocumentationFile>
+    <DocumentationFile>Ribbon.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Paint.xml</DocumentationFile>
+    <DocumentationFile>Ribbon.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -94,16 +94,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="MyEllipse.vb" />
-    <Compile Include="MyGradient.vb" />
-    <Compile Include="MyPicture.vb" />
-    <Compile Include="MyRectangle.vb" />
-    <Compile Include="MyShape.vb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -122,9 +114,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\claarkkk.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
