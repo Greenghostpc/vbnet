@@ -37,10 +37,6 @@ Partial Class Form1
         Me.Button8 = New System.Windows.Forms.Button()
         Me.Button9 = New System.Windows.Forms.Button()
         Me.Button10 = New System.Windows.Forms.Button()
-        Me.Button11 = New System.Windows.Forms.Button()
-        Me.Button12 = New System.Windows.Forms.Button()
-        Me.Button13 = New System.Windows.Forms.Button()
-        Me.Button14 = New System.Windows.Forms.Button()
         Me.ColorDialog1 = New System.Windows.Forms.ColorDialog()
         Me.Button15 = New System.Windows.Forms.Button()
         Me.Button16 = New System.Windows.Forms.Button()
@@ -56,8 +52,8 @@ Partial Class Form1
         Me.EditToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.UndoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SaveFileDialog1 = New System.Windows.Forms.SaveFileDialog()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Button17 = New System.Windows.Forms.Button()
+        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         CType(Me.TrackBar2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.TrackBar3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -190,42 +186,6 @@ Partial Class Form1
         Me.Button10.TabIndex = 13
         Me.Button10.UseVisualStyleBackColor = False
         '
-        'Button11
-        '
-        Me.Button11.BackColor = System.Drawing.Color.Black
-        Me.Button11.Location = New System.Drawing.Point(425, 482)
-        Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(34, 32)
-        Me.Button11.TabIndex = 14
-        Me.Button11.UseVisualStyleBackColor = False
-        '
-        'Button12
-        '
-        Me.Button12.BackColor = System.Drawing.Color.Black
-        Me.Button12.Location = New System.Drawing.Point(465, 482)
-        Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(34, 32)
-        Me.Button12.TabIndex = 15
-        Me.Button12.UseVisualStyleBackColor = False
-        '
-        'Button13
-        '
-        Me.Button13.BackColor = System.Drawing.Color.Black
-        Me.Button13.Location = New System.Drawing.Point(505, 482)
-        Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(34, 32)
-        Me.Button13.TabIndex = 16
-        Me.Button13.UseVisualStyleBackColor = False
-        '
-        'Button14
-        '
-        Me.Button14.BackColor = System.Drawing.Color.Black
-        Me.Button14.Location = New System.Drawing.Point(545, 482)
-        Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(34, 32)
-        Me.Button14.TabIndex = 17
-        Me.Button14.UseVisualStyleBackColor = False
-        '
         'Button15
         '
         Me.Button15.Location = New System.Drawing.Point(586, 482)
@@ -257,7 +217,7 @@ Partial Class Form1
         'gravityCheckBox
         '
         Me.gravityCheckBox.AutoSize = True
-        Me.gravityCheckBox.Location = New System.Drawing.Point(428, 441)
+        Me.gravityCheckBox.Location = New System.Drawing.Point(428, 431)
         Me.gravityCheckBox.Name = "gravityCheckBox"
         Me.gravityCheckBox.Size = New System.Drawing.Size(79, 25)
         Me.gravityCheckBox.TabIndex = 21
@@ -330,24 +290,25 @@ Partial Class Form1
         Me.UndoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.UndoToolStripMenuItem.Text = "Undo"
         '
-        'PictureBox1
-        '
-        Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
-        Me.PictureBox1.Location = New System.Drawing.Point(733, 331)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(187, 110)
-        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox1.TabIndex = 25
-        Me.PictureBox1.TabStop = False
-        '
         'Button17
         '
-        Me.Button17.Location = New System.Drawing.Point(819, 447)
+        Me.Button17.Location = New System.Drawing.Point(491, 482)
         Me.Button17.Name = "Button17"
         Me.Button17.Size = New System.Drawing.Size(89, 32)
         Me.Button17.TabIndex = 26
         Me.Button17.Text = "Gradient"
         Me.Button17.UseVisualStyleBackColor = True
+        '
+        'PictureBox1
+        '
+        Me.PictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.PictureBox1.Image = Global.Paint.My.Resources.Resources.aa
+        Me.PictureBox1.Location = New System.Drawing.Point(733, 366)
+        Me.PictureBox1.Name = "PictureBox1"
+        Me.PictureBox1.Size = New System.Drawing.Size(187, 110)
+        Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox1.TabIndex = 25
+        Me.PictureBox1.TabStop = False
         '
         'Form1
         '
@@ -363,10 +324,6 @@ Partial Class Form1
         Me.Controls.Add(Me.ComboBox1)
         Me.Controls.Add(Me.Button16)
         Me.Controls.Add(Me.Button15)
-        Me.Controls.Add(Me.Button14)
-        Me.Controls.Add(Me.Button13)
-        Me.Controls.Add(Me.Button12)
-        Me.Controls.Add(Me.Button11)
         Me.Controls.Add(Me.Button10)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button8)
@@ -412,10 +369,6 @@ Partial Class Form1
     Friend WithEvents Button8 As Button
     Friend WithEvents Button9 As Button
     Friend WithEvents Button10 As Button
-    Friend WithEvents Button11 As Button
-    Friend WithEvents Button12 As Button
-    Friend WithEvents Button13 As Button
-    Friend WithEvents Button14 As Button
     Friend WithEvents ColorDialog1 As ColorDialog
     Friend WithEvents Button15 As Button
     Friend WithEvents Button16 As Button

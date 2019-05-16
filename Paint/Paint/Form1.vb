@@ -99,7 +99,7 @@
         End If
     End Sub
 
-    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button9.Click, Button8.Click, Button7.Click, Button14.Click, Button13.Click, Button12.Click, Button11.Click, Button10.Click
+    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button9.Click, Button8.Click, Button7.Click, Button10.Click
         c = sender.backcolor
         Me.Refresh()
     End Sub
