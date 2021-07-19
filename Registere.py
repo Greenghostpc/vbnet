@@ -1,0 +1,2 @@
+//make register page
+input=
